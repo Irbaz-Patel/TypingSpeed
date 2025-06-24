@@ -4,7 +4,7 @@ A responsive React web app that lets users test their typing speed and accuracy 
 # Tech Stack: React.js, Tailwind CSS
 
 🛠️ Installation Steps:
-1.git clone https://github.com/your-username/news-api-react.git
+1.git clone https://github.com/Irbaz-Patel/TypingSpeed.git
 
 2.cd news-api-react
 
